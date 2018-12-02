@@ -7,7 +7,7 @@
             grid-column: 1 / 6;
             grid-row: 2 / 4;
             justify-self: center; /* modify horizontally */ 
-            align-self: center; /* modify vertically */
+            align-self: end; /* modify vertically */
         }
         .d7{background:lightblue}
         .d8{background:lawngreen}

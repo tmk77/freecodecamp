@@ -1,2 +1,2 @@
 # freecodecamp
-exercises
+projects
